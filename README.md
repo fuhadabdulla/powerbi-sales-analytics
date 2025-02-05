@@ -1,6 +1,6 @@
 # **Advanced Power BI Dashboard**
 
-![Sales Analytics PowerBI ](https://github.com/fuhadabdulla/powerbi-sales-analytics/blob/c7592ca0108cbd04863cc4bb50bf24519e251ccd/Sales%20Analytics%20PowerBI%20Screenshot.png)
+![Sales Analytics PowerBI ](https://github.com/fuhadabdulla/powerbi-sales-analytics/blob/d37ef3d012b3c6687fc538b69c2f006301307be7/Sales%20Analytics%20PowerBI%20Screenshot.png)
 
 
 ## Overview
